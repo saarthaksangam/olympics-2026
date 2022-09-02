@@ -1,4 +1,4 @@
-olympics_shorttrack_speed_skating_2026
+Olympics - Italian Short-track Speed-skating 2026
 ==============================
 
 This repo will house the data science project for the Olympics Men's and Women's Short track Speed Skating team for Italy Olympics 2026.
