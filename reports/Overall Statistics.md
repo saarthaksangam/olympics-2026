@@ -1,18 +1,28 @@
 # Overall Statistics
 
 ## High-level Statistics
+
 Total Skaters = 2101
+
 Male Skaters = 1206 (57.4%)
+
 Female Skaters = 895 (42.5%)
 
 Competitions = 203
 
+
 Number of Races
+
 Total Races = 2015
+
 500m = 687 (34.09%)
+
 1000m = 695 (34.49%)
+
 1500m = 565 (28.03%)
+
 3000m = 68 (3.37%)
+
 ![Figure](figures/20220902141055.png)
 
 
